@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "0kq:tick",
+        "cliff_tuna:every_tick"
+    ]
+}
