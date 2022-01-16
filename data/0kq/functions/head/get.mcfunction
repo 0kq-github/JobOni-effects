@@ -1,0 +1,15 @@
+item replace block 0 0 0 container.0 with player_head{SkullOwner:"makkili"}
+item replace block 0 0 0 container.1 with player_head{SkullOwner:"lood0812"}
+item replace block 0 0 0 container.2 with player_head{SkullOwner:"thousand72"}
+item replace block 0 0 0 container.3 with player_head{SkullOwner:"hakumaioomori"}
+item replace block 0 0 0 container.4 with player_head{SkullOwner:"Shuva2"}
+item replace block 0 0 0 container.5 with player_head{SkullOwner:"Gort_Hug"}
+item replace block 0 0 0 container.6 with player_head{SkullOwner:"0kq"}
+#item replace block 0 0 0 container.7 with player_head{SkullOwner:
+#item replace block 0 0 0 container.8 with player_head{SkullOwner:
+#item replace block 0 0 0 container.9 with player_head{SkullOwner:
+item replace block 0 0 0 container.9 with player_head{SkullOwner:"mokomoko1"}
+item replace block 0 0 0 container.10 with player_head{SkullOwner:"Mijyu_0"}
+item replace block 0 0 0 container.11 with player_head{SkullOwner:"Nanjuro_the_Gedo"}
+item replace block 0 0 0 container.12 with player_head{SkullOwner:"adashino_mk"}
+item replace block 0 0 0 container.13 with player_head{SkullOwner:"aporon61832"}
